@@ -1,0 +1,153 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 30px;
+}
+.header-area {
+  font-weight: bolder;
+  height: 450px;
+  background-color: #f0e9d2;
+}
+.header-area p {
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
+}
+.flexible-container {
+  display: flex;
+
+  padding: 30px;
+}
+.half-width {
+  width: 50%;
+  margin: 20px;
+  padding-left: 40px;
+}
+.half-width img {
+  width: 80%;
+  padding-left: 5%;
+}
+.diff-color {
+  color: #0980cf;
+}
+.header-area p {
+  font-size: 20px;
+  text-align: justify;
+}
+.left-border {
+  border-left: 4px solid #416a59;
+  padding-left: 10px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: #109af7;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: whitesmoke;
+  font-family: "Poppins", sans-serif;
+}
+.small-text {
+  color: black;
+}
+.small-text {
+  margin-left: 0px;
+  margin-top: 30px;
+}
+.my-mission {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  height: 600px;
+  background-color: #416a59;
+  padding-top: 10px;
+}
+.my-mission h1 {
+  color: whitesmoke;
+}
+.small-box {
+  font-size: 10px;
+  text-align: left;
+  margin: 50px;
+}
+.small-box img {
+  width: 40%;
+}
+.one-third-width {
+  width: 100%;
+}
+.box-one {
+  background-color: #c2cfcf;
+  padding: 20px 20px;
+  border-radius: 3%;
+}
+.box-two {
+  background-color: #ecdbe0;
+  padding: 20px 20px;
+  border-radius: 3%;
+}
+.box-three {
+  background-color: #e6e1d8;
+  padding: 20px 20px;
+  border-radius: 3%;
+}
+.developer-section img {
+  width: 70%;
+  margin: 30px;
+}
+.developer-section {
+  font-family: "Poppins", sans-serif;
+  height: 1050px;
+  background-color: #39395f;
+  color: whitesmoke;
+}
+
+.self-section {
+  background-color: #73a24e;
+  height: 500px;
+  
+}
+.self-section img {
+  margin-left: 80px;
+  width: 60%;
+ 
+}
+.form-container {
+  padding: 70px;
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  color: whitesmoke;
+}
+.log-in-button {
+  text-decoration: none;
+  padding: 10px 172px;
+  border-radius: 5px;
+  background-color: #109af7;
+  color: whitesmoke;
+  font-size: 20px;
+}
+.input-area {
+  padding: 7px 120px;
+  border-radius: 5px;
+  border: 1px solid #109af7;
+}
+footer {
+  background-color: #a9c25d;
+  text-align: center;
+  color: white;
+  height: 100px;
+  padding: 10px;
+}
+.black-color {
+  color: #181d31;
+}
+
+footer h2 {
+  font-size: 25px;
+}
+
