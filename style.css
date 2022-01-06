@@ -23,7 +23,7 @@ h3 {
 .flexible-container {
   display: flex;
 
-  padding: 30px;
+  padding: 15px;
 }
 .half-width {
   width: 50%;
@@ -109,13 +109,11 @@ h3 {
 
 .self-section {
   background-color: #73a24e;
-  height: 500px;
-  
+  height: 600px;
 }
 .self-section img {
   margin-left: 80px;
   width: 60%;
- 
 }
 .form-container {
   padding: 70px;
@@ -150,4 +148,11 @@ footer {
 footer h2 {
   font-size: 25px;
 }
-
+.contact {
+  font-size: 35px;
+}
+#message {
+  padding: 7px 137px;
+  border-radius: 5px;
+  border: 1px solid #109af7;
+}
